@@ -1,0 +1,16 @@
+[submodule "pmb2_robot"]
+	path = pmb2_robot
+	url = https://github.com/pal-robotics/pmb2_robot.git
+[submodule "pal_gazebo_plugins"]
+	path = pal_gazebo_plugins
+	url = https://github.com/pal-robotics/pal_gazebo_plugins.git
+[submodule "pal_urdf_utils"]
+	path = pal_urdf_utils
+	url = https://github.com/pal-robotics/pal_urdf_utils.git
+	branch = humble-devel
+[submodule "launch_pal"]
+	path = launch_pal
+	url = https://github.com/pal-robotics/launch_pal.git
+[submodule "pmb2_navigation"]
+	path = pmb2_navigation
+	url = https://github.com/pal-robotics/pmb2_navigation.git
